@@ -7,7 +7,7 @@ package superficies;
 
 /**
  *
- * @author Lenovo
+ * @author David
  */
 public class Modelo {
      private String shapeType;
